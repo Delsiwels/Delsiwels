@@ -15,12 +15,6 @@ judgement.
 My current focus is applying accounting context to AI support, product
 operations, workflow design, and trustworthy automation.
 
-## Selected work
-
-- **[noradelsierra](https://github.com/Delsiwels/noradelsierra)** — a public
-  FinQL application repository with Python, Flask, workflow services, and
-  regression tests.
-
 ## Principles
 
 - Evidence before confident answers
